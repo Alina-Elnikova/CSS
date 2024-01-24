@@ -10,6 +10,7 @@ body {
    font-size: 16px;
    font-weight: normal;
    font-family:cursive
+   
 
    /* font: normal 16px, cursive; */
 }
@@ -67,8 +68,8 @@ a:visited {
 }
 
 .contr {
-   max-width: 80%;
-   /* margin: auto; */
+   max-width: 60%;
+   margin: auto;
 }
 
 /* .hobby { */
